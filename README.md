@@ -2,7 +2,7 @@
 **контакты:**
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/lettexx_A)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lattexxA)
-###🛠️ Технический стек
+### 🛠️ Технический стек
 
 ### **📋 Тестирование**
 **Ручное тестирование:** 
