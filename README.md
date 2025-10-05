@@ -1,10 +1,4 @@
 # 👋 Привет, я Lettexx — Начинающих QA Engineer
-## 📫 Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-@lettexx_A-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lettexx_A)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lettexx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lettexx)
-
-[![Contact](https://img.shields.io/badge/Contact_Me-lettexx@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lettexx@outlook.com)
 
 ### 🛠️ Технический стек
 
@@ -24,3 +18,11 @@
 ![Linux](https://img.shields.io/badge/Linux-Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-@lettexx_A-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lettexx_A)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lettexx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lettexx)
+
+[![Contact](https://img.shields.io/badge/Contact_Me-lettexx@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lettexx@outlook.com)
+
