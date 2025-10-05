@@ -4,7 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lattexxA)
 ### 🛠️ Технический стек
 
-### **📋 Тестирование**
 **Ручное тестирование:** 
 ![Test Cases](https://img.shields.io/badge/Test_Cases-✓-green)
 ![Bug Reports](https://img.shields.io/badge/Bug_Reports-✓-green)
