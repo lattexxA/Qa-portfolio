@@ -24,5 +24,5 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lettexx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lettexx)
 
-[![Contact](https://img.shields.io/badge/Contact_Me-lettexx@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lettexx@outlook.com)
+[![Contact](https://img.shields.io/badge/Email-lettexx@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lettexx@outlook.com)
 
