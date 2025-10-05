@@ -1,7 +1,7 @@
 # 👋 Привет, я Lettexx — Начинающих QA Engineer
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-@lettexx_A-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lettexx_A)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lattexxA)
+[![GitHub](https://img.shields.io/badge/GitHub-Lettexx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lettexx)
 ### 🛠️ Технический стек
 
 **Ручное тестирование:** 
