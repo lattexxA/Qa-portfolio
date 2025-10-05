@@ -17,3 +17,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
