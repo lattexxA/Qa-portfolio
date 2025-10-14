@@ -19,6 +19,30 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
+## 📋 Структура 
+
+
+sql-project/
+
+├──📁 sql/
+
+│├── 📁 create/
+
+││   └── 📄 user.sql
+
+││   └── 📄 product.sql
+
+│└── 📁 select/
+
+│├── 📁 update/
+
+│├── 📁 alert/
+
+├──📁 bug-reports/
+
+└──📁 test-cases/
+
+
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-@lettexx_A-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lettexx_A)
 
