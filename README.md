@@ -44,7 +44,7 @@ sql-project/
 
 ││   └── 📋 productupdate.sql
 
-││   └── 📄 
+││   └── 📄 updateproductname.md
 
 │├── 📁 alert/
 
