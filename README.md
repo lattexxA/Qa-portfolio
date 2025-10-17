@@ -50,7 +50,7 @@ sql-project/
 
 ├──📁 bug-reports/
 
-││   └── 📄 
+││   └── 📄 sqltablereport.md
 
 ├──📁 screan/
 
