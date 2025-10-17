@@ -54,7 +54,7 @@ sql-project/
 
 ├──📁 screan/
 
-││   └── 🖼️
+││   └── 🖼️ productrepirt.png
 
 └──📁 test-cases/
 
