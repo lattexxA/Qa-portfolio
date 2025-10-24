@@ -1,4 +1,4 @@
-# 👋 Привет, я Lettexx — Начинающих QA Engineer
+школа# 👋 Привет, я Lettexx — Начинающих QA Engineer
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-@lettexx_A-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lettexx_A)
@@ -49,8 +49,6 @@ sql-project/
 ││   └── 📄 доставка.md
 
 │├── 📁 update/
-
-││   └── 📋 productupdate.sql
 
 ││   └── 📄 updateproductname.md
 
