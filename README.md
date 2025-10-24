@@ -50,7 +50,7 @@ sql-project/
 
 │├── 📁 update/
 
-││   └── 📄 updateproductname.md
+││   └── 📄 product.md
 
 │├── 📁 alert/
 
